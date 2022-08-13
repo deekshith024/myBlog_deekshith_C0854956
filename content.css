@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(236, 209, 126);
+    
+}
+
+
+.about-img{
+    float: left;
+     margin-bottom:10px;
+    
+}
+
+#ai {
+    float: left;    
+     margin: 0 15px 0 0;
+
+
+}
+#ai01 {
+    float: left;
+     margin-top: 10px;
+}
