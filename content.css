@@ -6,6 +6,10 @@
     
 }
 
+body {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+  }
 
 .about-img{
     float: left;
@@ -13,13 +17,39 @@
     
 }
 
+.about-hobbies {
+    margin-top: 10px;
+}
+
+.Hobbies01 {
+    margin: 20px;
+}
 #ai {
     float: left;    
      margin: 0 15px 0 0;
 
 
 }
+
+
+.para02 {
+    margin-top: 10px;
+
+}
 #ai01 {
     float: left;
      margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+#ai03 {
+    float: left;
+     margin-top: 20px;
+}
+
+#id04 {
+    text-align: none;
+}
+#id05 {
+    text-align: left;
 }
